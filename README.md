@@ -1,4 +1,6 @@
-Implementamos o trabalho na linguagem Java
+## DTW (Dynamic Time Warping) Algorithm 
+
+O algortimo foi implementado na linguagem <b>Java<b>
 
 Para rodar o nosso trabalho siga os seguintes passos:
 	
@@ -16,6 +18,8 @@ Para rodar o nosso trabalho siga os seguintes passos:
 		- O tempo de execução em milisegundos
 		- A taxa de acerto do algoritmo
 
-OBS: OS arquivos de teste e treino estão na pasta Projeto2/ArquivosEntrada/ 
-	 Não retire eles desse diretório, o algoritmo espera que eles estejam lá 
-	 para fazer a leitura
+<b>OBS:</b> 
+
+OS arquivos de teste e treino estão na pasta Projeto2/ArquivosEntrada/ 
+
+Não retire eles desse diretório, o algoritmo espera que eles estejam lá para fazer a leitura
