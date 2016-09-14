@@ -1,6 +1,6 @@
 ## DTW (Dynamic Time Warping) Algorithm 
 
-O algortimo foi implementado na linguagem <b>Java<b>
+O algortimo foi implementado na linguagem <b>Java</b>
 
 Para rodar o nosso trabalho siga os seguintes passos:
 	
